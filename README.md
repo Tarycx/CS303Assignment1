@@ -1,14 +1,17 @@
 # CS303Assignment1
-Instrucionts:
+Instructions:
+
 1.Start Program
+
 2.Text.txt (10 lines with 10 integars on each line, intagers: 1-100) file will automatically be read to array
+
 3.Menu Options will be displayed to user
+
 4. The user can choose from 6 menu options each menu option is explained to user.
 
+
+
 Sceen Shots:
-
-
-
 
 
 
