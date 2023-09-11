@@ -1,4 +1,7 @@
 # CS303Assignment1
+Name: Thomas Reilly
+Email: Taycx@umsystem.edu
+
 Instructions:
 
 1.Start Program
