@@ -1,5 +1,7 @@
 # CS303Assignment1
+
 Name: Thomas Reilly
+
 Email: Taycx@umsystem.edu
 
 Instructions:
@@ -10,7 +12,7 @@ Instructions:
 
 3.Menu Options will be displayed to user
 
-4. The user can choose from 6 menu options each menu option is explained to user.
+4.The user can choose from 6 menu options each menu option is explained to user.
 
 
 
